@@ -1,6 +1,6 @@
 ---
 permalink: /education/
-title: "Education"
+title: "Education and Training"
 ---
 
 ## Education
