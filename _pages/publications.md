@@ -1,7 +1,6 @@
 ---
 permalink: /publications/
----
-
+title: "Publications"
 ---
 
 ## Refereed Journal Articles

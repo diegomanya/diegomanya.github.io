@@ -1,5 +1,6 @@
 ---
 permalink: /experience/
+title: "Experience"
 ---
 
 My professional and academic experience includes over 8 years of working in the private sector, multilateral institutions, and academia addressing some of the most pressing environmental issues at a local, regional and national level.
