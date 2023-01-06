@@ -25,6 +25,6 @@ Thesis : ["Environmental Performance Evaluation of an Environmental Management S
 |            Phyton for Data Science and Machine Learning            |                           Udemy                            | Feb 2021  |
 |                    Welfare beyond Income (Spa)                     |                            UNDP                            | Sept 2017 |
 |                     Financing for Development                      |                      World Bank Group                      | Dec 2015  |
-|         Environmental Law and Policy Specialization (Spa)          |          Instituto CientC-fico del PacC-fico, PerC:           | Dic 2015  |
+|         Environmental Law and Policy Specialization (Spa)          |          Instituto Cientifico del Pacifico, PE:           | Dic 2015  |
 |   Greenhouse Gases and Carbon Footprint Training Programme (Spa)   |                            SGS                             | May 2014  |
 
