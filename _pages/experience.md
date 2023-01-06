@@ -22,7 +22,6 @@ My professional and academic experience includes over 8 years of working in the 
 
 **United Nations Development Program - Perú**
 Technical Coordination Specialist – Integrated Water Resource Management for the Titicaca, Desaguadero, Poopo, y Salar de Coipasa Binational Project (IWRM – TDPS)
-
 _March 2019 – December 2022_
 
 - Provide strategic advice to the Ministry of Environment on the implementation of the IWRM-TDPS Project and other strategic environmental initiatives including international cooperation, environmental management, and environmental policy.
