@@ -2,6 +2,8 @@
 permalink: /publications/
 ---
 
+My professional and academic experience includes over 8 years of working in the private sector, multilateral institutions, and academia addressing some of the most pressing environmental issues at a local, regional and national level.
+
 ## Refereed Journal Articles
 -   Hsu, A., Sheriff, G., Chakraborty, T., & **Manya, D. (2021)**. Disproportionate exposure to urban heat island intensity across major US cities. Nature communications, 12(1), 1-11.
 -   Hsu, A., Chakraborty, T., Thomas, R., **Manya, D.**, Weinfurter, A., Chin, N. J. W., ... & Feierman, A. (2020). Measuring what matters, where it matters: A spatially explicit Urban Environment and Social Inclusion Index for the Sustainable Development Goals. Frontiers in Sustainable Cities, 2, 62.
