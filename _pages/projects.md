@@ -1,6 +1,6 @@
 ---
-permalink: /portfolio/
-title: "Portfolio"
+permalink: /projects/
+title: "Works and Project Portfolio"
 ---
 
 ## Education
