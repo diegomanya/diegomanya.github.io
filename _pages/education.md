@@ -2,6 +2,7 @@
 permalink: /education/
 ---
 
+---
 
 ## Education
 

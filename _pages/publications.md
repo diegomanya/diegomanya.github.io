@@ -2,6 +2,7 @@
 permalink: /publications/
 ---
 
+---
 
 ## Refereed Journal Articles
 -   Hsu, A., Sheriff, G., Chakraborty, T., & **Manya, D. (2021)**. Disproportionate exposure to urban heat island intensity across major US cities. Nature communications, 12(1), 1-11.
