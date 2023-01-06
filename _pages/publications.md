@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
-author_profile: true
 ---
+
 ## Refereed Journal Articles
 -   Hsu, A., Sheriff, G., Chakraborty, T., & **Manya, D. (2021)**. Disproportionate exposure to urban heat island intensity across major US cities. Nature communications, 12(1), 1-11.
 -   Hsu, A., Chakraborty, T., Thomas, R., **Manya, D.**, Weinfurter, A., Chin, N. J. W., ... & Feierman, A. (2020). Measuring what matters, where it matters: A spatially explicit Urban Environment and Social Inclusion Index for the Sustainable Development Goals. Frontiers in Sustainable Cities, 2, 62.
