@@ -19,8 +19,7 @@ Research Associate - [Webpage](https://datadrivenlab.org/)\
 
 - Contribute and develop research on environmental inequality analysis focused on the distribution of environmental benefits and hazards across population in global cities and in the US. 
 - Providing statistical and geospatial analysis of environmental and social data of inequality in global cities for the Urban Environment and Social Inclusion Index (UESI) available [here](https://datadrivenlab.org/urban)
-- Support the expansion and liaison with interested cities in the Latin American region.
-- Provide trainings and presentation of the results to relevant parties and interested actors.
+- Presented the results of studies to relevant parties and interested actors.
 
 ## United Nations Development Program -- LAC Bureau
 Junior Consultant\
@@ -34,7 +33,7 @@ Junior Consultant\
 
 ## Yale Data Driven Environmental Solutions Group -- Yale FES
 Graduate Research Assistant - [Webpage](https://datadrivenlab.org/)\
-*September 2016 -- August 2018*\
+*September 2016 -- August 2018*
 
 -   Design and develop new tools to evaluate the environmental performance and inequities of a city for the proof of concept and pilot of the Urban Environment and Social Inclusion Index (UESI) available at <https://datadrivenlab.org/urban>
 -   Develop replicable techniques for advanced data analytics including Big Data and geospatial data
@@ -60,7 +59,7 @@ Waste Management Specialist - Poverty and Environment Initiative (PEI) Project\
 -   Create and review the operational documents of the PEI Project (\$200,000 Dollars Annual Budget)
 
 #### DP World Callao
-Safety and Environment Supervisor \ 
+Safety and Environment Supervisor\ 
 *January 2012 -- September 2015*
 
 -   Led the critical processes regarding the creation, implementation and certification of the Environmental Management System (EMS) according to ISO 14001 norm.
