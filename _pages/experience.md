@@ -49,7 +49,7 @@ Graduate Researcher -- Sustainable Development Cluster\
 -   Presented at an online course of UNDP Latin America about the use of the tool for environmental problem analysis.
 
 ## United Nations Development Program / United Nation Volunteers
-Waste Management Specialist - Poverty and Environment Initiative (PEI) Project [Report](https://www.undp.org/es/peru/publications/aportando-soluciones-para-la-gesti%C3%B3n-integral-de-residuos-s%C3%B3lidos-para-el-desarrollo-sostenible-e-inclusivo)\
+Waste Management Specialist - Poverty and Environment Initiative (PEI) Project -  [Report](https://www.undp.org/es/peru/publications/aportando-soluciones-para-la-gesti%C3%B3n-integral-de-residuos-s%C3%B3lidos-para-el-desarrollo-sostenible-e-inclusivo)\
 *September 2015 -- July 2016* 
 
 -   Coordinate and review the update of the [National Plan of Solid Waste Management](https://www.gob.pe/institucion/minam/informes-publicaciones/2634-plan-nacional-de-gestion-integral-de-residuos-solidos-2016-2024) with environmental, social, poverty and gender indicators.
@@ -59,7 +59,7 @@ Waste Management Specialist - Poverty and Environment Initiative (PEI) Project [
 -   Create and review the operational documents of the PEI Project (1,000,000 USD Total Budget)
 
 ## DP World Callao
-Safety and Environment Supervisor\ 
+Safety and Environment Supervisor\
 *January 2012 -- September 2015*
 
 -   Led the critical processes regarding the creation, implementation and certification of the Environmental Management System (EMS) according to ISO 14001 norm.

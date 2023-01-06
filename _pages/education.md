@@ -3,11 +3,11 @@ permalink: /education/
 ---
 ## Education
 
-**Yale University, Yale School of the Environment** New Haven, CT, USA\
+**Yale University, Yale School of the Environment** - New Haven, CT, USA\
 Master of Environmental Management, 2018\
-Topics: International Relations, Environmental Governance and Justice, Urban Planning, Systems Dynamics, Poverty Reduction Economics, Innovation in Government and Society\
+Topics: International Relations, Environmental Governance and Justice, Urban Planning, Systems Dynamics, Poverty Reduction Economics, Innovation in Government and Society
 
-**Universidad Nacional Agraria La Molina** Lima, PE\
+**Universidad Nacional Agraria La Molina** - Lima, PE\
 Bachelor of Science, Environmental Engineering, 2011\
 Environmental Engineer, 2015\
 Thesis : ["Environmental Performance Evaluation of an Environmental Management System in the Port of Callao"](http://repositorio.lamolina.edu.pe/handle/20.500.12996/2302)
