@@ -1,3 +1,8 @@
+---
+permalink: /education/
+---
+
+
 ## Education
 
 **Yale University, Yale School of the Environment** - New Haven, CT, USA\
