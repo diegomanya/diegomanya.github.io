@@ -17,9 +17,9 @@ Technical Coordination Specialist - Integrated Water Resource Management for the
 Research Associate - [Webpage](https://datadrivenlab.org/)\
 *October 2018 -- July 2020* 
 
-- Contribute and develop research on environmental inequality analysis focused on the distribution of environmental benefits and hazards across population in global cities and in the US. 
-- Providing statistical and geospatial analysis of environmental and social data of inequality in global cities for the Urban Environment and Social Inclusion Index (UESI) available [here](https://datadrivenlab.org/urban)
-- Presented the results of studies to relevant parties and interested actors.
+- Contribute and develop research on environmental inequality analysis focused on the distribution of environmental benefits and hazards in relation to income in [global cities](https://iopscience.iop.org/article/10.1088/1748-9326/ab3b99/meta) and in [US cities](https://www.nature.com/articles/s41467-021-22799-5). 
+- Providing statistical and geospatial analysis of environmental and social data of inequality in global cities for the [Urban Environment and Social Inclusion Index (UESI)](https://datadrivenlab.org/urban)
+- Presented the results of studies to relevant parties and interested actors in academic conferences.
 
 ## United Nations Development Program -- LAC Bureau
 Junior Consultant\
@@ -35,10 +35,10 @@ Junior Consultant\
 Graduate Research Assistant - [Webpage](https://datadrivenlab.org/)\
 *September 2016 -- August 2018*
 
--   Design and develop new tools to evaluate the environmental performance and inequities of a city for the proof of concept and pilot of the Urban Environment and Social Inclusion Index (UESI) available at <https://datadrivenlab.org/urban>
--   Develop replicable techniques for advanced data analytics including Big Data and geospatial data
--   Participation and facilitation of data analysis workshops, hackatons and presentations related to environmental sustainability and climate change in multiple academic forums
--   Writing and editing of chapters and case studies for Pilot Report of the UESI.
+-   Design and develop new tools to evaluate the environmental performance and inequities of a city for the proof of concept and pilot of the [Urban Environment and Social Inclusion Index (UESI)](https://datadrivenlab.org/urban)
+-   Develop replicable techniques for advanced data analytics including Big Data and geospatial data.
+-   Participation and facilitation of data analysis workshops, hackatons and presentations related to environmental sustainability and climate change in multiple academic forums.
+-   Writing and editing of chapters and case studies for Pilot Report of the [UESI](https://datadrivenlab.org/urban).
 
 ## United Nations Development Program -- LAC Bureau
 Graduate Researcher -- Sustainable Development Cluster\
@@ -48,17 +48,17 @@ Graduate Researcher -- Sustainable Development Cluster\
 -   Developed a methodological approximation to the integration of socioeconomic and environmental data for analysis of development problems in policy design, particularly for analyzing poverty and environment Linkages.
 -   Presented at an online course of UNDP Latin America about the use of the tool for environmental problem analysis.
 
-#### United Nations Development Program / United Nation Volunteers
-Waste Management Specialist - Poverty and Environment Initiative (PEI) Project\
-*September 2015 -- July 2016*
+## United Nations Development Program / United Nation Volunteers
+Waste Management Specialist - Poverty and Environment Initiative (PEI) Project [Report](https://www.undp.org/es/peru/publications/aportando-soluciones-para-la-gesti%C3%B3n-integral-de-residuos-s%C3%B3lidos-para-el-desarrollo-sostenible-e-inclusivo)\
+*September 2015 -- July 2016* 
 
--   Coordinate the update of the National Plan of Solid Waste Management with environmental, social, poverty and gender indicators including technical inputs.
+-   Coordinate and review the update of the [National Plan of Solid Waste Management](https://www.gob.pe/institucion/minam/informes-publicaciones/2634-plan-nacional-de-gestion-integral-de-residuos-solidos-2016-2024) with environmental, social, poverty and gender indicators.
 -   Review and elaborate monitoring and evaluation reports about the progress of the PEI Project.
 -   Support the liaison of inter-institutional cooperation between government initiatives and agencies that involve environmental, gender and poverty concerns, including national and municipal institutions.
 -   Assist in the systematization of experiences and methods of the PEI project to ensure its replication.
--   Create and review the operational documents of the PEI Project (\$200,000 Dollars Annual Budget)
+-   Create and review the operational documents of the PEI Project (1,000,000 USD Total Budget)
 
-#### DP World Callao
+## DP World Callao
 Safety and Environment Supervisor\ 
 *January 2012 -- September 2015*
 
