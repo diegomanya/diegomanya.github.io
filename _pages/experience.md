@@ -19,7 +19,7 @@ Research Associate - [Webpage](https://datadrivenlab.org/)\
 *October 2018 -- July 2020* 
 
 - Contribute and develop research on environmental inequality analysis focused on the distribution of environmental benefits and hazards across population in global cities and in the US. 
-- Providing statistical and geospatial analysis of environmental and social data of inequality in global cities for the Urban Environment and Social Inclusion Index (UESI) available at <https://datadrivenlab.org/urban> 
+- Providing statistical and geospatial analysis of environmental and social data of inequality in global cities for the Urban Environment and Social Inclusion Index (UESI) available [here](https://datadrivenlab.org/urban)
 - Support the expansion and liaison with interested cities in the Latin American region.
 - Provide trainings and presentation of the results to relevant parties and interested actors.
 
