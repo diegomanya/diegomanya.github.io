@@ -11,6 +11,6 @@ title: "Publications"
 -   Valdivia, S. A. P., & **Manya, D.** (2017). Análisis del sistema de gestión ambiental de un operador portuario del terminal de contenedores del Puerto del Callao. En Anales Científicos (Vol. 78, No. 2, pp. 148-156). Universidad Nacional Agraria La Molina. (Peer -- Review)
 
 
-## Books, Reports, & Chapters
+## Books, Reports & Chapters
 -   Hsu, A., N. Alexandre, J. Brandt, T. Chakraborty, S. Comess,A. Feierman, T. Huang, S. Janaskie, **D. Manya**, M. Moroney, N. Moyo, R. Rauber, G. Sherriff, R. Thomas, J. Tong, Y. Xie, A. Weinfurter, Z. Yeo (in alpha order), (2018). 2018 Urban Environment and Social Inclusion Index. New Haven, CT. Yale University.
 -   **Manya, D.**, Thomas, R., & Moroney, M. (2017). Urban Environmental Performance Index: The Quito Pilot Case. Available at www.elischolar.yale.edu
