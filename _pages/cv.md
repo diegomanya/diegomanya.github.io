@@ -36,8 +36,7 @@ _Environmental Engineer, 2015_
 
 **United Nations Development Program - Perú** Lima, PE
 
-Technical Coordination Specialist – Integrated Water Resource Management for the
- Titicaca, Desaguadero, Poopo, y Salar de Coipasa Binational Project (IWRM – TDPS) **March 2019 – December 2022**
+Technical Coordination Specialist – Integrated Water Resource Management for the Titicaca, Desaguadero, Poopo, y Salar de Coipasa Binational Project (IWRM – TDPS) **March 2019 – December 2022**
 
 - Provide strategic advice to the Ministry of Environment on the implementation of the IWRM-TDPS Project and other strategic environmental initiatives including international cooperation, environmental management, and environmental policy.
 - Coordinate the technical review, binational negotiations, and provide specialized inputs in the design and development of multiple relevant binational environmental studies and policy proposals including the Transboundary Diagnostic Analysis (TDA), Strategic Action Programme (SAP), and other technical studies in Water Management, Governance, Biodiversity, Natural Infrastructure, Climate Change for the TDPS System and other national initiatives.
