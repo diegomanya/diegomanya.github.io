@@ -6,11 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+#<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>#
+#You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).#
 {% include base_path %}
 
 **DIEGO MANYA GUTIERREZ**
-Web: diegomanya.github.io E-mail: diego.manyag@gmail.com Skype: diego.manya2005
+Web: diegomanya.github.io E-mail: diego.manyag@gmail.com
 
 Environmental Engineer and Master of Environmental Management with over nine years of professional experience in environmental policy and management in both private and public sector, with emphasis in Latin America and the Caribbean. Specialist in the design and evaluation of environmental strategy, policy and development projects focusing on the use of data science, systems thinking and multidimensional approaches for integrative solutions to relevant environmental and development issues.
 
