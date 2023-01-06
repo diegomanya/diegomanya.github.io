@@ -18,73 +18,17 @@ header:
   og_image: "software/spatial_weighting.png"
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+My professional and academic experience includes over 8 years of working in the private sector, multilateral institutions, and academia addressing some of the most pressing environmental issues at a local, regional and national level.
 
-# BayesPostEst
+# United Nations Development Program - Perú
+Technical Coordination Specialist – Integrated Water Resource Management for the Titicaca, Desaguadero, Poopo, y Salar de Coipasa Binational Project (IWRM – TDPS) 
+_March 2019 – December 2022_
 
-[![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
-[![Codecov test coverage](https://codecov.io/gh/ShanaScogin/BayesPostEst/branch/master/graph/badge.svg)](https://codecov.io/gh/ShanaScogin/BayesPostEst?branch=master)
-
-I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
-
-{% include gallery %}
-
-To install the latest release on CRAN:
-
-```r
-install.packages("BayesPostEst")
-```
-
-The latest [development version](https://github.com/ShanaScogin/BayesPostEst) on GitHub can be installed with:
-
-```r
-library(remotes)
-install_github("ShanaScogin/BayesPostEst")
-```
-
-You can try out the `mcmcCoefPlot` function from the package in the interactive R console below:
-
-# RWmisc
-
-[![R build status](https://github.com/jayrobwilliams/RWmisc/workflows/R-CMD-check/badge.svg)](https://github.com/jayrobwilliams/RWmisc/actions)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/RWmisc)](https://CRAN.R-project.org/package=RWmisc)
-[![codecov](https://codecov.io/gh/jayrobwilliams/RWmisc/branch/master/graph/badge.svg)](https://codecov.io/gh/jayrobwilliams/RWmisc)
-
-I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [RWmisc](https://CRAN.R-project.org/package=RWmisc). It includes functions for:
-
-- Managing multiple different projections for cross-national spatial data
-- Converting latitude-longitude data in archaic forms (degrees, minutes, seconds)
-- Correcting for overlapping polygons when aggregating raster data to polygons
-- My custom minimal ggplot2 theme
-
-![](/images/software/spatial_weighting.png)
-
-To install the latest release on CRAN:
-
-```r
-install.packages("RWmisc")
-```
-
-The latest [development version](https://github.com/jayrobwilliams/RWmisc) on GitHub can be installed with:
-
-```r
-library(remotes)
-install_github("jayrobwilliams/RWmisc")
-```
-
-# Other resources
-
-I also have a number of other software resources focused on making computation and academic life easier:
-
-- [The template](https://github.com/jayrobwilliams/JobMarket) I use for my academic job market materials
-    - Fill in school/position information in one file and it populates to all statements
-    - Generate summary statistics from teaching evaluations and integrate into statements
-    - Combine multiple teaching evaluations into a single portfolio document
-    - Do all of this programmatically with GNU Make!
-- [The template](https://github.com/jayrobwilliams/UNC-Dissertation-Template) I used for my dissertation
-    - This satisfied the formatting requirements at UNC in 2019
-    - Some tweaking likely required to use at another institution or in the future
-- [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
-- [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
-- [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
+- Provide strategic advice to the Ministry of Environment on the implementation of the IWRM-TDPS Project and other strategic environmental initiatives including international cooperation, environmental management, and environmental policy.
+- Coordinate the technical review, binational negotiations, and provide specialized inputs in the design and development of multiple relevant binational environmental studies and policy proposals including the Transboundary Diagnostic Analysis (TDA), Strategic Action Programme (SAP), and other technical studies in Water Management, Governance, Biodiversity, Natural Infrastructure, Climate Change for the TDPS System and other national initiatives.
+- Develop data science and knowledge management analysis and tools with multidimensional information and communication of technical results to relevant stakeholders.
+- Facilitate interinstitutional coordination and cooperation in the implementation of the IWRM-TDPS Project's activities, including strategic and technical facilitation of workshops, fostering exchanges, and achieving consensus in technical and strategic issues between multiple actors from Perú and Bolivia.
+- Evaluate and support overall planning, management, and implementation for the IWRM-TDPS Project to successfully achieve its technical and financial results (6.2 M USD Project)
+- Develop technical briefs and documents related to the performance of the IWRM-TDPS Project and other national strategies and initiatives, including periodic monitoring and evaluation reports for national agencies.
+- Review and propose tools and documents for learning and knowledge management based in lessons and outputs of TDPS Project including developing technical summaries and information management.
+- Provide oversight on the tasks, activities, and deliverables for project implementation including adaptative management and strategies to deliver expected results.
