@@ -5,7 +5,7 @@ title: "Experience"
 
 My professional and academic experience includes over 8 years of working in the private sector, multilateral institutions, and academia addressing some of the most pressing environmental issues at a local, regional and national level.
 
-#### United Nations Development Program - Perú
+## United Nations Development Program - Perú
 Technical Coordination Specialist - Integrated Water Resource Management for the Titicaca, Desaguadero, Poopo, y Salar de Coipasa Binational Project (IWRM -- TDPS) - [Webpage](https://girh-tdps.com/)\
 *March 2019 -- December 2022* 
 
@@ -14,7 +14,7 @@ Technical Coordination Specialist - Integrated Water Resource Management for the
 - Evaluate and support overall planning, management, and implementation for the IWRM-TDPS Project to successfully achieve its technical and financial results (6.2 M USD Project).
 - Facilitate interinstitutional coordination and cooperation in the implementation of the IWRM-TDPS Project's activities, including strategic and technical facilitation of workshops, fostering exchanges, and achieving consensus in technical and strategic issues between multiple actors from Perú and Bolivia.
 
-#### Data Driven Environmental Policy Lab -- Yale-NUS
+## Data Driven Environmental Policy Lab -- Yale-NUS
 Research Associate - [Webpage](https://datadrivenlab.org/)\
 *October 2018 -- July 2020* 
 
@@ -23,7 +23,7 @@ Research Associate - [Webpage](https://datadrivenlab.org/)\
 - Support the expansion and liaison with interested cities in the Latin American region.
 - Provide trainings and presentation of the results to relevant parties and interested actors.
 
-#### United Nations Development Program -- LAC Bureau
+## United Nations Development Program -- LAC Bureau
 Junior Consultant\
 *May 2018 -- December 2018* 
 
@@ -33,7 +33,7 @@ Junior Consultant\
 - Support the construction and revision of evidence-based Theory of Change process for the acceleration of SDG´s from a multidimensional and systems thinking perspective. 
 - Prepare tools and training materials for specific training around Sustainable Development Goals and their incorporation in national instruments.
 
-#### Yale Data Driven Environmental Solutions Group -- Yale FES
+## Yale Data Driven Environmental Solutions Group -- Yale FES
 Graduate Research Assistant - [Webpage](https://datadrivenlab.org/)\
 *September 2016 -- August 2018*\
 
@@ -42,7 +42,7 @@ Graduate Research Assistant - [Webpage](https://datadrivenlab.org/)\
 -   Participation and facilitation of data analysis workshops, hackatons and presentations related to environmental sustainability and climate change in multiple academic forums
 -   Writing and editing of chapters and case studies for Pilot Report of the UESI.
 
-#### United Nations Development Program -- LAC Bureau
+## United Nations Development Program -- LAC Bureau
 Graduate Researcher -- Sustainable Development Cluster\
 *May 2017 -- August 2017*
 
