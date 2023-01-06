@@ -2,7 +2,6 @@
 permalink: /publications/
 ---
 
-My professional and academic experience includes over 8 years of working in the private sector, multilateral institutions, and academia addressing some of the most pressing environmental issues at a local, regional and national level.
 
 ## Refereed Journal Articles
 -   Hsu, A., Sheriff, G., Chakraborty, T., & **Manya, D. (2021)**. Disproportionate exposure to urban heat island intensity across major US cities. Nature communications, 12(1), 1-11.
