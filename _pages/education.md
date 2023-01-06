@@ -1,6 +1,6 @@
 ---
-permalink: /experience/
-title: "Experience"
+permalink: /education/
+title: "Education"
 gallery:
   - url: software/table.png
     image_path: software/table.png
