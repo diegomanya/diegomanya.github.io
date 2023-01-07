@@ -7,8 +7,7 @@ During my professional and academic experience I have contributed to multiple su
 
 ## Supporting the formulation of the Colombian National Electric Mobility Strategy 
 As part of a collaboration with relevant actors supporting the elaboration of a national electric mobility strategy for Colombia, I analyzed barriers and possible best practices to successfully promote the adoption of Electric Vehicles (EV) in the country focusing in the adoption of private EV and associate recharging infrastructure. The analysis involved through review of the regulations and state of the energy market in Colombia to evaluate their effects in the cost of Private and Public Recharge of EV through a quantitative analysis. In addition, I identify best practices such as incentives and tax reforms from other regions to address some of the most relevant barriers and leverage promising conditions, and proposed some short, medium and long term recommendations to promote the adoption of Electric Vehicles (EV) in Colombia
-![](/images/projects/EV_Privada_Recarga_Costo.png)
-![](/images/projects/EV_Publica_Recarga_Costo.png)
+![](/images/projects/EV_Privada_Recarga_Costo.png){width="315"} ![](/images/projects/EV_Publica_Recarga_Costo.png){width="315"}
 
 ## Vulnerability Analysis of the Ica River Basin: A Water Risk Analysis from a Livelihoods Perspective 
 Report analyzing the vulnerability of the Ica River Basin to water related natural risks based in the sustainable livelihood’s framework. The report included a qualitative and quantitative analysis of the risk of the region including the nature of the risk, the potential impacts to vulnerable communities’ livelihoods, the role of the structure of the local government in relation to risks reduction, and recommendations for addressing the topic from a holistic perspective.
