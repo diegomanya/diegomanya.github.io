@@ -26,10 +26,9 @@ Research Associate - [Webpage](https://datadrivenlab.org/)\
 Junior Consultant\
 *May 2018 -- December 2018* 
 
-- Providing support to national agencies in Latin-American and Caribbean countries in mainstreaming SDG's in their strategic planning through a multidimensional approach and methodological tools. (Rapid Integrated Assessment and COMBOS Approach).
-- Providing support to the Regional Bureau of Latin America and the Caribbean in the analysis of development programs and strategies for multiples countries (Mexico, Guyana, Turk and Caicos, Dominican Republic).
+- Providing support to national agencies in Latin-American and Caribbean countries (Peru, Mexico, Guyana, Turk and Caicos, Dominican Republic) in mainstreaming SDG's in their strategic planning through a multidimensional approach and methodological tools (Rapid Integrated Assessment and COMBOS Approach).
+- Providing support to the Regional Bureau of Latin America and the Caribbean in the analysis of development programs and strategies for multiples countries using tools such as evidence-based Theory of Change process for the acceleration of SDG´s from a multidimensional and systems thinking perspective.
 - Facilitate virtual and in-person trainings for mainstreaming SDG in national and sectorial policies and cooperation portfolios in Latin-American and Caribbean. 
-- Support the construction and revision of evidence-based Theory of Change process for the acceleration of SDG´s from a multidimensional and systems thinking perspective. 
 - Prepare tools and training materials for specific training around Sustainable Development Goals and their incorporation in national instruments.
 
 ## Yale Data Driven Environmental Solutions Group -- Yale FES
